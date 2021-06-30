@@ -1,6 +1,6 @@
 # Smooth Scroll
 
-![alt text](src/assets/smooth-scroll.gif)
+![smooth-scroll](https://user-images.githubusercontent.com/15675912/123966912-3901cc00-d98c-11eb-8998-65c535904e7d.gif)
 
 I were used a default structure for create the anchor links.
 
